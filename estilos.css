@@ -1,0 +1,14 @@
+html {
+    background: #cccccc; /* 1 */
+    color: #000; /* 2 */
+    font-family: sans-serif; /* 3 */
+
+}
+
+
+body {
+    margin: 50;
+    text-align:center;
+}
+
+
